@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 
 ### 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamedessam9/)
+- [Email](mohamed.essam955559@gmail.com)
 
 ---
 
