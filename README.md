@@ -18,21 +18,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 
 ---
 
-### 📈 My GitHub Stats
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedEssam-955559&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-955559&layout=compact&theme=radical)
-<!--
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here or use a workflow to automate -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mohamedessam9/)
