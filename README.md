@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Essam
 
-## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
+## 🚀 DevOps Engineer 
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong background in automating infrastructure, building CI/CD pipelines, and driving cloud-native transformation. My focus is on bridging the gap between development and operations to enable fast, reliable, and secure software delivery.
 
@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 
 ### 🛠️ Tech Stack & Tools
 
-- **Cloud:** AWS | Azure | GCP
+- **Cloud:** AWS 
 - **Containers & Orchestration:** Docker | Kubernetes | Helm
-- **CI/CD:** Jenkins | GitHub Actions | GitLab CI | CircleCI
-- **Infrastructure as Code:** Terraform | CloudFormation | Ansible
-- **Monitoring & Logging:** Prometheus | Grafana | ELK Stack
-- **Scripting & Automation:** Bash | Python | PowerShell
+- **CI/CD:** GitHub Actions
+- **Infrastructure as Code:** Terraform | Ansible
+- **Monitoring & Logging:** Prometheus | Grafana 
+- **Scripting & Automation:** Bash | Python 
 - **Version Control:** Git & GitHub
 
 ---
