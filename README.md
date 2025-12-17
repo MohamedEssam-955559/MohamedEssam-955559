@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 - **CI/CD:** GitHub Actions
 - **Infrastructure as Code:** Terraform | Ansible
 - **Monitoring & Logging:** Prometheus | Grafana 
-- **Scripting & Automation:** Bash | Python 
+- **Scripting & Automation:** Bash  
 - **Version Control:** Git & GitHub
 
 ---
