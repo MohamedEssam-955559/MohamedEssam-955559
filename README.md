@@ -25,8 +25,3 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 
 ---
 
-### 📢 Fun Fact
-
-> "Automation is to DevOps what oxygen is to life!"
-
-Thank you for visiting my profile! Feel free to check out my repositories and connect with me for collaborations, discussions, or opportunities.
